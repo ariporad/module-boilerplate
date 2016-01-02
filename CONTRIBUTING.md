@@ -1,6 +1,6 @@
 # Contributing
 
-We'd love for you to contribute! Although, for legal reasons, we'll need you to sign a CLA.
+Contributions are welcome!
 
 Please make sure to add tests for anything you add or fix. You can run the tests and lint your code with:
 

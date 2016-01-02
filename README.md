@@ -1,7 +1,7 @@
 # Simple-Boilerplate
 ---
 
-### A simple boilerplate module for @emiw.
+### A simple boilerplate module for @ariporad.
 
 [//]: # "ProTip(tm): This is how you make a comment in markdown. Anything between the quotes is ignored."
 
@@ -23,17 +23,17 @@
 [npm-link]:  http://npm.im/simple-boilerplate                           "npm"
 
 [license-badge]: https://img.shields.io/npm/l/simple-boilerplate.svg    "MIT License"
-[license-link]:  http://emiw.mit-license.org             "MIT License"
+[license-link]:  http://ariporad.mit-license.org             "MIT License"
 
 [//]: # "The rest just use the repo slug"
-[build-badge]: https://travis-ci.org/emiw/simple-boilerplate.svg                   "Travis CI Build Status"
-[build-link]:  https://travis-ci.org/emiw/simple-boilerplate                       "Travis CI Build Status"
+[build-badge]: https://travis-ci.org/ariporad/simple-boilerplate.svg                   "Travis CI Build Status"
+[build-link]:  https://travis-ci.org/ariporad/simple-boilerplate                       "Travis CI Build Status"
 
-[deps-badge]: https://img.shields.io/david/emiw/simple-boilerplate.svg             "Dependency Status"
-[deps-link]:  https://david-dm.org/emiw/simple-boilerplate                         "Dependency Status"
+[deps-badge]: https://img.shields.io/david/ariporad/simple-boilerplate.svg             "Dependency Status"
+[deps-link]:  https://david-dm.org/ariporad/simple-boilerplate                         "Dependency Status"
 
-[devDeps-badge]: https://img.shields.io/david/dev/emiw/simple-boilerplate.svg      "devDependency Status"
-[devDeps-link]:  https://david-dm.org/emiw/simple-boilerplate#info=devDependencies "devDependency Status"
+[devDeps-badge]: https://img.shields.io/david/dev/ariporad/simple-boilerplate.svg      "devDependency Status"
+[devDeps-link]:  https://david-dm.org/ariporad/simple-boilerplate#info=devDependencies "devDependency Status"
 
 [cz-badge]: https://img.shields.io/badge/commitizen-friendly-brightgreen.svg "Commitizen friendly"
 [cz-link]: http://commitizen.github.io/cz-cli/                               "Commitizen friendly"
@@ -43,8 +43,8 @@
 
 [//]: # "This comes last, as it's really long"
 
-[coverage-badge]: https://coveralls.io/repos/emiw/simple-boilerplate/badge.svg?branch=master&service=github "Code Coverage"
-[coverage-link]: https://coveralls.io/github/emiw/simple-boilerplate?branch=master                          "Code Coverage"
+[coverage-badge]: https://coveralls.io/repos/ariporad/simple-boilerplate/badge.svg?branch=master&service=github "Code Coverage"
+[coverage-link]: https://coveralls.io/github/ariporad/simple-boilerplate?branch=master                          "Code Coverage"
 
 ---
 
@@ -70,4 +70,4 @@ Please make sure to add tests for anything you add/fix. Run the tests (and lint 
 
 ## License
 
-[MIT: emiw.mit-license.org.](http://emiw.mit-license.org)
+[MIT: ariporad.mit-license.org.](http://ariporad.mit-license.org)

@@ -1,9 +1,8 @@
 Some quick stuff to finish up before you start developing:
 - Create a git repo. (`rm -rf .git && git init && git add . && git commit -am "chore: root"`)
-- Change the license if needed.
-- Create a github repo. (https://github.com/emiw)
-- Setup the project on Travis CI (https://travis-ci.org/profile/emiw)
-- Setup the project on Coveralls. (https://coveralls.io/repos/new?name=emiw&service=github)
+- Create a github repo. (https://github.com/ariporad)
+- Setup the project on Travis CI (https://travis-ci.org/profile/ariporad)
+- Setup the project on Coveralls. (https://coveralls.io/repos/new?name=ariporad&service=github)
 - Setup greenkeeper (`npm i -g greenkeeper; greenkeeper sync; greenkeeper enable`)
 - Write code
 - Setup semantic-release (`npm i -g semantic-release-cli; semantic-release-cli setup`)

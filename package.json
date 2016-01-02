@@ -19,26 +19,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emiw/simple-boilerplate.git"
+    "url": "git+https://github.com/ariporad/simple-boilerplate.git"
   },
   "author": {
     "name": "Ari Porad",
-    "email": "ari@emiw.xyz"
+    "email": "ari@ariporad.com"
   },
-  "contributors": [
-    {
-      "name": "Ari Porad",
-      "email": "ari@emiw.xyz"
-    },
-    {
-      "name": "Zoe Carver",
-      "email": "zoe@emiw.xyz"
-    },
-    {
-      "name": "Henry Roseman",
-      "email": "henry@emiw.xyz"
-    }
-  ],
   "devDependencies": {
     "ava": "^0.9.1",
     "babel-cli": "^6.3.17",
@@ -58,9 +44,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/emiw/simple-boilerplate/issues"
+    "url": "https://github.com/ariporad/simple-boilerplate/issues"
   },
-  "homepage": "https://github.com/emiw/simple-boilerplate#readme",
+  "homepage": "https://github.com/ariporad/simple-boilerplate#readme",
   "config": {
     "commitizen": {
       "path": "node_modules/cz-conventional-changelog/"
