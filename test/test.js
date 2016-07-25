@@ -1,8 +1,8 @@
 /* (c) 2016 Ari Porad (@ariporad) <http://ariporad.com>. License: ariporad.mit-license.org */
 import test from 'ava';
-import doSomething from '../';
+import doSomething from '../src';
 
 test(t => {
-  t.ok(true);
+  t.truthy(true);
   doSomething();
 });

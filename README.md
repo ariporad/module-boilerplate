@@ -1,4 +1,4 @@
-# Simple-Boilerplate
+# module-boilerplate
 ---
 
 ### A simple boilerplate module for @ariporad.
@@ -18,22 +18,22 @@
 
 
 [//]: # "These use the npm package name"
-[version-badge]: 	https://img.shields.io/npm/v/simple-boilerplate.svg   "npm version"
-[downloads-badge]: https://img.shields.io/npm/dm/simple-boilerplate.svg "npm downloads"
-[npm-link]:  http://npm.im/simple-boilerplate                           "npm"
+[version-badge]: 	https://img.shields.io/npm/v/module-boilerplate.svg   "npm version"
+[downloads-badge]: https://img.shields.io/npm/dm/module-boilerplate.svg "npm downloads"
+[npm-link]:  http://npm.im/module-boilerplate                           "npm"
 
-[license-badge]: https://img.shields.io/npm/l/simple-boilerplate.svg    "MIT License"
+[license-badge]: https://img.shields.io/npm/l/module-boilerplate.svg    "MIT License"
 [license-link]:  http://ariporad.mit-license.org             "MIT License"
 
 [//]: # "The rest just use the repo slug"
-[build-badge]: https://travis-ci.org/ariporad/simple-boilerplate.svg                   "Travis CI Build Status"
-[build-link]:  https://travis-ci.org/ariporad/simple-boilerplate                       "Travis CI Build Status"
+[build-badge]: https://travis-ci.org/ariporad/module-boilerplate.svg                   "Travis CI Build Status"
+[build-link]:  https://travis-ci.org/ariporad/module-boilerplate                       "Travis CI Build Status"
 
-[deps-badge]: https://img.shields.io/david/ariporad/simple-boilerplate.svg             "Dependency Status"
-[deps-link]:  https://david-dm.org/ariporad/simple-boilerplate                         "Dependency Status"
+[deps-badge]: https://img.shields.io/david/ariporad/module-boilerplate.svg             "Dependency Status"
+[deps-link]:  https://david-dm.org/ariporad/module-boilerplate                         "Dependency Status"
 
-[devDeps-badge]: https://img.shields.io/david/dev/ariporad/simple-boilerplate.svg      "devDependency Status"
-[devDeps-link]:  https://david-dm.org/ariporad/simple-boilerplate#info=devDependencies "devDependency Status"
+[devDeps-badge]: https://img.shields.io/david/dev/ariporad/module-boilerplate.svg      "devDependency Status"
+[devDeps-link]:  https://david-dm.org/ariporad/module-boilerplate#info=devDependencies "devDependency Status"
 
 [cz-badge]: https://img.shields.io/badge/commitizen-friendly-brightgreen.svg "Commitizen friendly"
 [cz-link]: http://commitizen.github.io/cz-cli/                               "Commitizen friendly"
@@ -43,8 +43,8 @@
 
 [//]: # "This comes last, as it's really long"
 
-[coverage-badge]: https://coveralls.io/repos/ariporad/simple-boilerplate/badge.svg?branch=master&service=github "Code Coverage"
-[coverage-link]: https://coveralls.io/github/ariporad/simple-boilerplate?branch=master                          "Code Coverage"
+[coverage-badge]: https://coveralls.io/repos/ariporad/module-boilerplate/badge.svg?branch=master&service=github "Code Coverage"
+[coverage-link]: https://coveralls.io/github/ariporad/module-boilerplate?branch=master                          "Code Coverage"
 
 ---
 
@@ -59,12 +59,7 @@ tellus non justo vehicula efficitur.
 
 ## Contributing
 
-PRs are welcome, but you'll have to sign the CLA.
-
-Please make sure to add tests for anything you add/fix. Run the tests (and lint your code) with:
-
-    npm run test
-
+See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
