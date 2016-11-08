@@ -40,7 +40,7 @@
     "format-json": "1.0.3",
     "husky": "^0.11.5",
     "nyc": "^7.1.0-candidate3",
-    "shx": "^0.1.2",
+    "shx": "^0.2.0",
     "sponge": "0.1.0"
   },
   "license": "MIT",
